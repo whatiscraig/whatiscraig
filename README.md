@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me
 
 <!--
 **whatiscraig/whatiscraig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ I am a solo independent game developer from Sydney Australia.
+
+ I am current working on my first game, a cross between visual novels and old-school adventure games, in the Godot game engine.
